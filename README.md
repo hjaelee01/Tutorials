@@ -1,2 +1,2 @@
-# Codecademy
-Code projects from codecademy.com
+# Tutorials
+Code projects from random sources
